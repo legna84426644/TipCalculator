@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://imgur.com/7w9hYib.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="7w9hYib"><a href="//imgur.com/7w9hYib">View post on imgur.com</a></blockquote>
