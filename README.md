@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+<img src='https://imgur.com/7w9hYib' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="7w9hYib"><a href="//imgur.com/7w9hYib"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
@@ -30,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 - Zero knowledge and experience about swift, xcode programing and even not familiar with Mac (I'm a windows user)
-- Spend too much time for learning swift at https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
+- Spend too much time for learning swift
 
 ## License
 
