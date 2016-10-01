@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
 **Tip Calculator** is a tip calculator application for iOS.
 
@@ -22,13 +22,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/7w9hYib.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="FWF3Oi9"><a href="//i.imgur.com/7w9hYib.gifv">View post on imgur.com</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Zero knowledge and experience about swift, xcode programing and even not familiar with Mac (I'm a windows user)
+- Spend too much time for learning swift at https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
 
 ## License
 
