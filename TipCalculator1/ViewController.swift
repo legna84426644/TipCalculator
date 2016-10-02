@@ -59,6 +59,8 @@ class ViewController: UIViewController {
 
     @IBAction func billProcess(sender: AnyObject) {
         
+        saveValue()
+        
         let tipPercent = [0.18, 0.2, 0.25]
         let bill = Double(billValue.text!) ?? 0
         
@@ -88,6 +90,21 @@ class ViewController: UIViewController {
         totalLabel.text = String(format: "$%.2f", total)
     }
     
+    func saveValue() {
+        let saveValue = NSUserDefaults.standardUserDefaults()
+        saveValue.setObject(billValue.text, forKey: "billValue")
+        saveValue.setObject(NSDate(), forKey: "billTime")
+        saveValue.synchronize()
+    }
+    
+    override func viewWillAppear(animated: Bool) {
+        super.viewWillAppear(animated)
+        let billTimeLoaded = NSUserDefaults.standardUserDefaults().objectForKey("billTime") as? NSDate
+        if(billTimeLoaded != nil && integer_t(NSDate().timeIntervalSinceDate(billTimeLoaded!)) < 600){
+            billValue.text = NSUserDefaults.standardUserDefaults().objectForKey("billValue") as? String
+        }
+        
+    }
     
 }
 

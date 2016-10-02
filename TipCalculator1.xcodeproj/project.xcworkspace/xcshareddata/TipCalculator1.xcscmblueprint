@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C7F17BC1D3EE4950D38294EBEF6B436E62B6F2E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC00885186703B35F8A801B57AB59CC6B537FFFC" : 0,
+    "C7F17BC1D3EE4950D38294EBEF6B436E62B6F2E1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DB1D0DC-9532-47FD-9F0A-5C1150128AEF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC00885186703B35F8A801B57AB59CC6B537FFFC" : "",
+    "C7F17BC1D3EE4950D38294EBEF6B436E62B6F2E1" : "TipCalculator1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TipCalculator1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TipCalculator1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/legna84426644\/TipCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7F17BC1D3EE4950D38294EBEF6B436E62B6F2E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/legna84426644\/tipCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC00885186703B35F8A801B57AB59CC6B537FFFC"
+    }
+  ]
+}
