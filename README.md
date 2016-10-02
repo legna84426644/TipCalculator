@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 - Zero knowledge and experience about swift, xcode programing and even not familiar with Mac (I'm a windows user)
-- Spend too much time for learning swift so I have only week to play with the app
+- Spent too much time for learning swift so I had only oneweek to play with the app
 
 ## License
 
